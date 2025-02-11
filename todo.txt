@@ -1,0 +1,42 @@
+=============================================================
+==================INITIALIZING THE PROJETCT==================
+=============================================================
+
+1. Insatall the vite:
+    -> in terminal 
+    -> npm create vite@latest .  
+    -> y  
+    -> chose the technologies of your preference 
+
+2. Install all the packages 
+    -> in terminal
+    -> npm i
+
+3. Run the vite:
+    -> in terminal
+    -> npm run dev
+
+
+
+
+
+
+
+
+=============================================================
+=========================CURIOSITIES=========================
+=============================================================
+
+1. The package.json store all the configs of your project
+
+2. npm install, install all the dependences for the project
+
+3. When it runs the npm run, you're getting from the 
+   packag.json files. so you can use npm run ...
+   wherever part of the code you want
+
+
+
+
+
+                   
