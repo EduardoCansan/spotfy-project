@@ -1,8 +1,5 @@
 
-
-=============================================================
-==================INITIALIZING THE PROJETCT==================
-=============================================================
+### INITIALIZING THE PROJETCT
 
 1. Insatall the vite:
     -> in terminal 
@@ -18,11 +15,9 @@
     -> in terminal
     -> npm run dev
 
+##
 
-
-=============================================================
-=========================CURIOSITIES=========================
-=============================================================
+### CURIOSITIES
 
 1. The package.json store all the configs of your project
 
@@ -37,19 +32,15 @@
 
 5. All Component in React is a function
 
+##
 
-
-=============================================================
-========================PATTERN CODES========================
-=============================================================
+### PATTERN CODES
 
 1. Arrow Function (most commom used):
     const 'Name' = () <></>;
 
 2. Self Closing Tag
-    <!-- <Header></Header> -->
-    or
-    <!-- <Header /> -->
+    <Header></Header> or <Header />
 
 3. Export in React:
     default: can be imported with any name and without curly brackets
@@ -57,8 +48,4 @@
 
 4. In Css is an excelent patter to do a reset in your elements, in
     the beggining of the 'index.css' is an exemple
-
-
-
-
-                   
+                      
