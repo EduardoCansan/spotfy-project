@@ -1,11 +1,5 @@
 
-<<<<<<< HEAD
-=============================================================
-==================INITIALIZING THE PROJETCT==================
-=============================================================
-=======
 ### INITIALIZING THE PROJETCT
->>>>>>> 688019e55ef0c361bc19bb2e30d1a40e517580d1
 
 1. Insatall the vite:
     * in terminal 
@@ -38,16 +32,13 @@
 
 5. All Component in React is a function
 
-<<<<<<< HEAD
 6. A void tag in React is called Fragment
 
 7. SVH is a 'Small Viewport Height' this mean the height is
    gone be a 100% of the screen in a small object view, this
    make the responsivity more clear for mobiles and web
 
-=======
 ##
->>>>>>> 688019e55ef0c361bc19bb2e30d1a40e517580d1
 
 ### PATTERN CODES
 
@@ -55,19 +46,13 @@
     const 'Name' = () <></>;
 
 2. Self Closing Tag
-<<<<<<< HEAD
     * <'Name'></'Name'> or <'Name' />
     
-=======
-    <Header></Header> or <Header />
->>>>>>> 688019e55ef0c361bc19bb2e30d1a40e517580d1
-
 3. Export in React:
     * default: can be imported with any name and without curly brackets
     * without default: must import with the same name and curly brackets
 
 4. In Css is an excelent patter to do a reset in your elements, in
-<<<<<<< HEAD
    the beggining of the 'index.css' is an exemple
 
 5. Name of classes in CSS, metodologia BEM
